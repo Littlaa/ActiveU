@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #5f9ea0;
+}
+
+.logo {
+display: flex;
+justify-content: center;
+height: 160px;
+}
